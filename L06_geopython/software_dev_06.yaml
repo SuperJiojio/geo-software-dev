@@ -1,0 +1,10 @@
+name: software_dev_06
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - rasterio
+  - gdal
+  - jupyterlab
+  - python=3.10
